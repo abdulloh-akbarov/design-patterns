@@ -5,7 +5,7 @@ public class Radar extends Colleague {
         super(mediator);
     }
 
-    public void sendWeatherUpdate(){
+    public void sendWeatherUpdate() {
         mediator.sendWeatherUpdate(this);
     }
 }
