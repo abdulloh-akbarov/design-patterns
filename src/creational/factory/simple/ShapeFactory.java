@@ -1,4 +1,4 @@
-package creational.factory;
+package creational.factory.simple;
 
 public class ShapeFactory {
     public Shape getShape(String shapeType) {

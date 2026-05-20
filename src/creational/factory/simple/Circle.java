@@ -1,4 +1,4 @@
-package creational.factory;
+package creational.factory.simple;
 
 public class Circle implements Shape {
     @Override
